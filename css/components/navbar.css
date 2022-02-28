@@ -1,0 +1,18 @@
+.navbar-main {
+  justify-content: space-between;
+}
+
+.navbar-main .navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.navbar-main .navbar-collapse {
+  flex-grow: 0;
+}
+
+.navbar-main .navbar-collapse .navbar-nav .nav-link {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+}
